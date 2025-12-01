@@ -203,14 +203,6 @@ Transiciones sutiles para mejorar la experiencia del usuario:
 - [Tailwind CSS](https://tailwindcss.com/docs)
 - [Documentación de componentes UI](https://tailwindui.com/)
 
-## Capturas de pantalla
-
-![Dashboard](/public/img/screenshots/dashboard.png)
-![Gestión de Bovinos](/public/img/screenshots/bovine-management.png)
-![Módulo ESP32](/public/img/screenshots/esp32-module.png)
-
-> Nota: Las capturas de pantalla pueden no reflejar la versión más reciente de la interfaz.
-
 ---
 ## 🔗 Repositorios del Proyecto
 
