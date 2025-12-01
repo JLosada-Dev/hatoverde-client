@@ -212,5 +212,13 @@ Transiciones sutiles para mejorar la experiencia del usuario:
 > Nota: Las capturas de pantalla pueden no reflejar la versión más reciente de la interfaz.
 
 ---
+## 🔗 Repositorios del Proyecto
+
+Este proyecto es parte del sistema HatoVerde:
+
+- **Frontend**: [hatoverde-client](https://github.com/JLosada-Dev/hatoverde-client)
+- **Backend**: [hatoverde-api](https://github.com/JLosada-Dev/hatoverde-api)
+- **IoT**: [hatoverde-esp32](https://github.com/JLosada-Dev/hatoverde-esp32)
+---
 
 © 2025 Hatoverde. Todos los derechos reservados.
